@@ -3,7 +3,7 @@ import yfinance as yf
 import altair as alt
 import streamlit as st
 
-st.title('そららんのための米株価可視化アプリ')
+st.title('そららんのそららんによるそららんのための米株価可視化アプリ')
 
 st.sidebar.write("""
 # GAFA株価
